@@ -1074,7 +1074,7 @@ textarea.input {
   }
 }
 .item-videos__video {
-  height: 8.9375rem;
+  padding-bottom: 55%;
   position: relative;
   border: 2px solid #FFFFFF;
   border-radius: 2px;
